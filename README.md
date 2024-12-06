@@ -1,2 +1,8 @@
-# ESP32_Wroom_IDF
-This repository include all projects about ESP32 serious boards.
+# ESP32 步進馬達控制專案
+
+## 專案文檔
+- 開發筆記位於 `/docs` 目錄
+- 重要討論和決策記錄
+- 開發過程中的問題解決方案
+
+## 目錄結構 
